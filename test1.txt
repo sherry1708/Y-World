@@ -1,8 +1,0 @@
-first line in the git
-second line added by master
-third line added by master
-fourth line added by master
-text edited by linux
-
-line edited by linux
-he is the greatest of all the time
