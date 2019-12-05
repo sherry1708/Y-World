@@ -1,1 +1,2 @@
 file changed in newbranch
+modified by master
